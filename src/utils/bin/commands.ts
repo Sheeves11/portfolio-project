@@ -186,12 +186,13 @@ export const banner = (args?: string[]): string => {
        ░    ░        ░  ░       ░       ░           ░  ░ ░           ░ 
                                                                        
 
-Hello there! I'm Mia! I'm a web-designer from Fayetteville, Arkansas
+Ahoy there websurfer! I'm Mia! I'm a web-designer from Fayetteville, Arkansas
 with a love for terminal-based applications, UX Design, and
 CRT Monitors from the 90s! 
 
 If you're on a mobile device, visit a simplified overview of my
 projects <u><a class="text-light-blue dark:text-dark-blue underline" href="https://www.linkedin.com/in/miaquain11/" target="_blank">here!</a></u> 
+
 If not, feel free to explore!
 
 Thanks for looking,
