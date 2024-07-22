@@ -60,7 +60,7 @@ More about me:
 };
 
 // Manifesto
-export const about = async (args: string[]): Promise<string> => {
+export const manifesto = async (args: string[]): Promise<string> => {
   return `Web Design Manifesto:
 
 Good web design is a practice that goes deeper than pretty
