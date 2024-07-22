@@ -62,10 +62,35 @@ More about me:
 
 // Manifesto
 export const manifesto = async (args: string[]): Promise<string> => {
-  return `Web Design Manifesto:
+  return `
 
 Good web design is a practice that goes deeper than pretty
-graphics. To me, a good website needs to consider 
+graphics. To me, a good website needs to excel at the following:
+
+--------------------------
+
+1) Accessibility
+
+The majority of the world's internet users don't have brand-new laptops running
+fully updated versions of Google Chrome. They're using mobile phones with limited
+internet access, older computers, and a wide variety of browsers. A good website
+considers it's audience and the limitations of their devices. A good website should
+also be machine-readable and accessable by screen-readers, translation programs,
+and search engines alike.
+
+--------------------------
+
+2) Security
+
+If you can't safely secure a user's personal data, you shouldn't be collecting it.
+Security and safe data storage needs to be at the forefront of any design decision.
+
+--------------------------
+
+3) Usefulness
+
+A website should be rich in information. The fewer clicks a user needs to access the
+information they seek, the better. 
 
 ----------------------------------------------------------------------------------------
 
