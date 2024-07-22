@@ -124,8 +124,18 @@ export const banner = (args?: string[]): string => {
        ░    ░        ░  ░       ░       ░           ░  ░ ░           ░ 
                                                                        
 
+Hello there! I'm Mia, a web-designer from Fayetteville, Arkansas
+with a love for terminal-based applications, UX Design, and
+CRT Monitors from the 90s! 
+
+If you're on a mobile device, visit a simplified version of this
+website href="https://sheeves.art" target="_blank">here!</a></u> If not, feel free to explore!
+
+Thanks for looking,
+Mia Quain <3
+
 Type 'help' to see the list of available commands.
-Type 'sumfetch' to display summary.
+Type 'sumfetch' to display a summary.
 Type 'repo' or click <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">here</a></u> for the Github repository.
 `;
 };
