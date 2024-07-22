@@ -1,4 +1,4 @@
-# [💻 Hello! This is a LiveTerm implementation of my personal portfolio!)
+# [💻 Hello!!!)
 
 This is a fork of CVEINNT's LiveTerm that I have modified for use as a general-purpose portfolio website. This project is a Next.js based pesudo shell emulation (not to be confused with my project "Unnamed Fiefdom Game" which uses true shell emulation)
 
