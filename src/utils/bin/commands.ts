@@ -124,12 +124,13 @@ export const banner = (args?: string[]): string => {
        ░    ░        ░  ░       ░       ░           ░  ░ ░           ░ 
                                                                        
 
-Hello there! I'm Mia, a web-designer from Fayetteville, Arkansas
+Hello there! I'm Mia! I'm a web-designer from Fayetteville, Arkansas
 with a love for terminal-based applications, UX Design, and
 CRT Monitors from the 90s! 
 
 If you're on a mobile device, visit a simplified version of this
-website <u><a class="text-light-blue dark:text-dark-blue underline" href="https://sheeves.art" target="_blank">here!</a></u> If not, feel free to explore!
+website <u><a class="text-light-blue dark:text-dark-blue underline" href="https://sheeves.art" target="_blank">here!</a></u> 
+If not, feel free to explore!
 
 Thanks for looking,
 Mia Quain <3
