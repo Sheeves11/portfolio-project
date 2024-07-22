@@ -1,6 +1,8 @@
-# [💻 LiveTerm - build terminal styled websites in minutes!](https://liveterm.vercel.app)
+# [💻 Hello! This is a LiveTerm implementation of my personal portfolio!)
 
-Highly customizable, easy-to-use, and minimal terminal styled website template, powered by Next.js.
+This is a fork of CVEINNT's LiveTerm that I have modified for use as a general-purpose portfolio website. This project is a Next.js based pesudo shell emulation (not to be confused with my project "Unnamed Fiefdom Game" which uses true shell emulation)
+
+If you'd like to set up your own portfolio, feel free to follow the instructions below!
 
 Building a simple website with LiveTerm only takes **minutes**, and you only need to work with **one** file: `config.json`. After you cloned this repository, simply run `yarn install && yarn dev` and start editing `config.json` to build your website!
 
