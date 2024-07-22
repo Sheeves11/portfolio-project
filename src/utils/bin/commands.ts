@@ -55,6 +55,7 @@ or user experience design role!
 
 More about me:
 'sumfetch' - short summary.
+'manifesto' - my web design philosophy.
 'resume' - my latest resume.
 'readme' - my github readme.`;
 };
