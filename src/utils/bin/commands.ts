@@ -59,6 +59,21 @@ More about me:
 'readme' - my github readme.`;
 };
 
+// Manifesto
+export const about = async (args: string[]): Promise<string> => {
+  return `Web Design Manifesto:
+
+Good web design is a practice that goes deeper than pretty
+graphics. To me, a good website needs to consider 
+
+----------------------------------------------------------------------------------------
+
+More about me:
+'sumfetch' - short summary.
+'resume' - my latest resume.
+'readme' - my github readme.`;
+};
+
 export const resume = async (args: string[]): Promise<string> => {
   window.open(`${config.resume_url}`);
   return 'Opening resume...';
