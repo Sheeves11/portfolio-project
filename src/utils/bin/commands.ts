@@ -30,8 +30,29 @@ export const repo = async (args: string[]): Promise<string> => {
 
 // About
 export const about = async (args: string[]): Promise<string> => {
-  return `Hi, I am ${config.name}. 
-Welcome to my website!
+  return `Hi, I'm Mia Quain, webmaster around these parts!
+  
+Hello! I'm Mia Quain! I'm an IT professional with an 
+interest in web development, UI design, photography, and programming.
+
+My story begins in Russellville, Arkansas as a young 
+computer science student who fell in love with C++, 
+command-line interfaces, and web design. I quickly put 
+these skills to use in my dorm room, building and hosting 
+websites for myself and my friends. 
+
+After several years of experience in photography, web design, 
+marketing, and writing, I began working at the University of Arkansas 
+as a computer technician while studying graphic design with a focus on 
+user experience and user interface design. During my time here I developed 
+my design and technical skills; quickly becoming a full-time scientific 
+research technologist for the department of computer science and electrical engineering. 
+
+I am now seeking to put my range of skills and passions to work in a web development 
+or user experience design role!
+
+----------------------------------------------------------------------------------------
+
 More about me:
 'sumfetch' - short summary.
 'resume' - my latest resume.
