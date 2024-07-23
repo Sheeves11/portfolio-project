@@ -20,7 +20,7 @@ const sumfetch = async (args: string[]): Promise<string> => {
     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓           -----------
       ▓▓▓   ▐▓▓   ▓▓   ▓▓▓   ▓▓▀             ART 
         ▀▓▓▄▄ ▀▓▓▄▓▓▄▓▓▓▄▄▓▓▀                <u><a href="${config.donate_urls.paypal}" target="_blank">${config.donate_urls.paypal}</a></u>
-            ▀▓▓▓▓▓▓▓▓▓▓▓▀▀                  爵 <u><a href="${https://www.behance.net/sheeves11}" target="_blank">Behance Portfolio</a></u>
+            ▀▓▓▓▓▓▓▓▓▓▓▓▀▀                  爵 <u><a href="${https:www.behance.net/sheeves11}" target="_blank">Behance Portfolio</a></u>
 
 `;
   }
