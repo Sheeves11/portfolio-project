@@ -7,36 +7,28 @@ import config from '../../../config.json';
 export const help = async (args: string[]): Promise<string> => {
   return `
 Here are all the available commands:
---------------------------------------
------------
+
 INFO
------------
-about
-resume
-manifesto
+- about
+- resume
+- manifesto
 
-----------
 CODE
-----------
-repo
-github
+- repo
+- github
 
-----------
 SOCIAL
-----------
-linkedin
-email
+- linkedin
+- email
 
-----------
 SYSTEM
-----------
-whoami
-help
-ls
-cd
-date
-sudo
-echo
+- whoami
+- help
+- ls
+- cd
+- date
+- sudo
+- echo
 
 -------------------------------------
 
