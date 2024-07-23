@@ -46,7 +46,7 @@ Type 'sumfetch' to display summary.
 };
 
 // Weather
-weather: async (args: string[]) => {
+export const weather = async (args: string[]) => {
     const city = args.join('+');
 
     if (!city) {
@@ -56,7 +56,7 @@ weather: async (args: string[]) => {
     const weather = await fetch(`https://wttr.in/${city}?ATm`);
 
     return weather.text();
-  },
+},
 
 // Portrait
 export const portrait = async (args: string[]): Promise<string> => {
