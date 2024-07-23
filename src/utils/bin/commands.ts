@@ -215,7 +215,7 @@ with a love for terminal-based applications, user experience design, and
 those giant CRT Monitors from the 90s! 
 
 If you're on a mobile device, please feel free to view an overview of my
-projects on LinkedIn <u><a class="text-light-blue dark:text-dark-blue underline" href="https://www.linkedin.com/in/miaquain11/" target="_blank">here!</a></u> 
+projects on linkedin <u><a class="text-light-blue dark:text-dark-blue underline" href="https://www.linkedin.com/in/miaquain11/" target="_blank">here!</a></u> 
 
 If not, feel free to explore!
 
