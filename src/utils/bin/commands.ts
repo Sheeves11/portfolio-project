@@ -30,7 +30,7 @@ export const repo = async (args: string[]): Promise<string> => {
 
 // About
 export const about = async (args: string[]): Promise<string> => {
-  return `Hi, I'm Mia Quain, webmaster around these parts!
+  return `
   
 Hello! I'm Mia Quain! I'm an IT professional with an 
 interest in web development, UI design, photography, and programming.
@@ -187,11 +187,11 @@ export const banner = (args?: string[]): string => {
                                                                        
 
 Ahoy there websurfer! I'm Mia! I'm a web-designer from Fayetteville, Arkansas
-with a love for terminal-based applications, UX Design, and
-CRT Monitors from the 90s! 
+with a love for terminal-based applications, user experience design, and
+those giant CRT Monitors from the 90s! 
 
-If you're on a mobile device, visit a simplified overview of my
-projects <u><a class="text-light-blue dark:text-dark-blue underline" href="https://www.linkedin.com/in/miaquain11/" target="_blank">here!</a></u> 
+If you're on a mobile device, please feel free to view an overview of my
+projects on LinkedIn <u><a class="text-light-blue dark:text-dark-blue underline" href="https://www.linkedin.com/in/miaquain11/" target="_blank">here!</a></u> 
 
 If not, feel free to explore!
 
@@ -202,7 +202,7 @@ Mia Quain <3
 
 Type 'help' to see the list of available commands.
 Type 'sumfetch' to display a summary.
-Type 'repo' or click <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">here</a></u> for the Github repository.
+Type 'repo' or click <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">here</a></u> to view this website's source code.
 
 --------------------------------------------------------
 `;
