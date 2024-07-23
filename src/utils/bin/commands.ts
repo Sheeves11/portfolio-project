@@ -5,31 +5,27 @@ import config from '../../../config.json';
 
 // Help
 export const help = async (args: string[]): Promise<string> => {
-  return `Here are all the available commands:
-
-about
-banner
-cd
-date
-echo
-emacs
-email
-github
-help
-linkedin
-ls
+  return `
+Here are all the available commands:
+--------------------------------------
+INFO:              SOCIAL:
+about              linkedin
+resume             email
 manifesto
+                   SYSTEM:
+CODE:              whoami
+repo               help
+github             ls
+                   cd
+FUN:               date
+vi                 sudo
+vim                echo
 nvim
-repo
-resume
-sudo
-sumfetch
-vi
-vim
-whoami
+emacs
+-------------------------------------
 
 [tab]: trigger completion.
-[ctrl+l]/clear: clear terminal.\n
+[ctrl+l] or clear: clear terminal.\n
 Type 'sumfetch' to display summary.
 `;
 };
