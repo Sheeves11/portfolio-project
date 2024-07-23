@@ -30,6 +30,13 @@ SYSTEM
 - sudo
 - echo
 
+FUN
+- portrait
+- vi
+- vim
+- nvim
+- emacs
+
 -------------------------------------
 
 [tab]: trigger completion.
