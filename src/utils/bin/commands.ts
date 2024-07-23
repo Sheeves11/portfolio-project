@@ -8,20 +8,36 @@ export const help = async (args: string[]): Promise<string> => {
   return `
 Here are all the available commands:
 --------------------------------------
-INFO:              SOCIAL:
-about              linkedin
-resume             email
+-----------
+INFO
+-----------
+about
+resume
 manifesto
-                   SYSTEM:
-CODE:              whoami
-repo               help
-github             ls
-                   cd
-FUN:               date
-vi                 sudo
-vim                echo
-nvim
-emacs
+
+----------
+CODE
+----------
+repo
+github
+
+----------
+SOCIAL
+----------
+linkedin
+email
+
+----------
+SYSTEM
+----------
+whoami
+help
+ls
+cd
+date
+sudo
+echo
+
 -------------------------------------
 
 [tab]: trigger completion.
