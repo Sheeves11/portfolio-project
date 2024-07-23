@@ -160,7 +160,7 @@ export const date = async (args: string[]): Promise<string> => {
 };
 
 export const vi = async (args: string[]): Promise<string> => {
-  return `woah, you still use 'vi'? just try 'vim'.`;
+  return `wow, do people still use 'vi'? just try 'vim'.`;
 };
 
 export const vim = async (args: string[]): Promise<string> => {
