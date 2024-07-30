@@ -19,6 +19,8 @@ CODE
 
 SOCIAL
 - linkedin
+- behance
+- instagram
 - email
 
 SYSTEM
@@ -110,16 +112,15 @@ user experience and user interface design. During my time here I developed
 my design and technical skills; quickly becoming a full-time scientific 
 research technologist for the department of computer science and electrical engineering. 
 
-I am now seeking to put my range of skills and passions to work in a web development 
-or user experience design role!
+I love command line interfaces, good web design, and fun new projects.
+Feel free to reach out!
 
 ----------------------------------------------------------------------------------------
 
 More about me:
-'sumfetch' - short summary.
+'sumfetch' - a short summary.
 'manifesto' - my web design philosophy.
-'resume' - my latest resume.
-'readme' - my github readme.`;
+'resume' - my latest resume.;
 };
 
 // Manifesto
@@ -158,8 +159,7 @@ information they seek, the better.
 
 More about me:
 'sumfetch' - short summary.
-'resume' - my latest resume.
-'readme' - my github readme.`;
+'resume' - my latest resume.`;
 };
 
 export const resume = async (args: string[]): Promise<string> => {
@@ -230,7 +230,6 @@ export const emacs = async (args?: string[]): Promise<string> => {
 };
 
 export const sudo = async (args?: string[]): Promise<string> => {
-  window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ', '_blank'); // ...I'm sorry
   return `Permission denied: with little power comes... no responsibility? `;
 };
 
