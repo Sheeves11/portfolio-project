@@ -15,13 +15,6 @@ LiveTerm can be used to build a variety of websites:
 
 Feel free to play with the web demo above!
 
-## 📸 Showcase
-
-<p align="center">
-<img src="./demo/demo.gif" width="600"><br>
-<strong>LiveTerm with different themes</strong>
-</p>
-
 
 ## Setup Instructions
 
