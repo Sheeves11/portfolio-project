@@ -96,8 +96,9 @@ export const repo = async (args: string[]): Promise<string> => {
 export const about = async (args: string[]): Promise<string> => {
   return `
   
-Hello! I'm Mia Quain! I'm an IT professional with an 
-interest in web development, UI design, photography, and programming.
+Hello! I'm Mia Quain! I'm a system administrator and cybersecurity
+professional interested in web development, UI design, 
+photography, and programming.
 
 My story begins in Russellville, Arkansas as a young 
 computer science student who fell in love with C++, 
@@ -249,9 +250,9 @@ export const banner = (args?: string[]): string => {
        ░    ░        ░  ░       ░       ░           ░  ░ ░           ░ 
                                                                        
 
-Ahoy there websurfer! I'm Mia! I'm a web-designer from Fayetteville, Arkansas
-with a love for terminal-based applications, user experience design, and
-those giant CRT Monitors from the 90s! 
+Ahoy there websurfer! I'm Mia! I'm a system admin from Fayetteville, Arkansas
+(and now Seattle, Washington!) with a love for terminal-based applications, 
+user experience design, and those giant CRT Monitors from the 90s! 
 
 If you're on a mobile device, please feel free to view an overview of my
 projects on linkedin <u><a class="text-light-blue dark:text-dark-blue underline" href="https://www.linkedin.com/in/miaquain11/" target="_blank">here!</a></u> 
