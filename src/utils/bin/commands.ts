@@ -121,7 +121,7 @@ More about me:
 'sumfetch' - a short summary.
 'manifesto' - my web design philosophy.
 'resume' - my latest resume.;
-};
+};`
 
 // Manifesto
 export const manifesto = async (args: string[]): Promise<string> => {
